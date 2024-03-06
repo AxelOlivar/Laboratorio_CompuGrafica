@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (P03-317113888.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  E03-317113888.cpp
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E03-317113888.cpp")
+  
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E03-317113888.cpp")
+  
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(28,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(195,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(237,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(237,32): warning C4244:         with
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(237,32): warning C4244:         [
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(237,32): warning C4244:             _Ty=GLfloat
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(237,32): warning C4244:         ]
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(239,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(239,32): warning C4244:         with
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(239,32): warning C4244:         [
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(239,32): warning C4244:             _Ty=GLfloat
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(239,32): warning C4244:         ]
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(335,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\E03-317113888\E03-317113888.cpp(337,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  E03-317113888.vcxproj -> C:\Users\axeld\OneDrive\Documentos\LabGrafica20242\Prueba1\Debug\E03-317113888.exe
